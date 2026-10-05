@@ -2,7 +2,7 @@ function App() {
   return (
     <>
     <header>
-      WebMS
+      <h1>WebMS</h1>
     </header>
     </>
   )
